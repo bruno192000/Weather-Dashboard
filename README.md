@@ -20,7 +20,7 @@
  <img src="./Web capture_6-6-2021_184918_.jpeg" alt="Failed to load picture"></a>
 
  ## <h2 id="Future"><i> Future of this weather dashboard</i></h2>
- <p>Again, as you might see theres some mistakes that I plan to fix while i'm getting more experience. If you want to try it, just click <a href="https://bruno192000.github.io/Work-Day-scheduler/" target="_blank">here</p>
+ <p>Again, as you might see theres some mistakes that I plan to fix while i'm getting more experience. If you want to try it, just click <a href="https://bruno192000.github.io/Weather-Dashboard/" target="_blank">here</a></p>
 
  ## <h2 id="contact"><i>Contact information</i></h2>
 <p> As always, you'll find 3 ways to contact me:</p>
